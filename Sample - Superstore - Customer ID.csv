@@ -1,4 +1,4 @@
-Row ID,Customer ID,Customer Name,Segment,Country,City,State,Postal Code,Region
+RowID,CustomerID,CustomerName,Segment,Country,City,State,PostalCode,Region
 1,CG-12520,Claire Gute,Consumer,United States,Henderson,Kentucky,42420,South
 2,DV-13045,Darrin Van Huff,Corporate,United States,Los Angeles,California,90036,West
 3,SO-20335,Sean O'Donnell,Consumer,United States,Fort Lauderdale,Florida,33311,South

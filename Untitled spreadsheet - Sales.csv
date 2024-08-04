@@ -1,0 +1,55 @@
+OrderID,OrderMonth,OrderYear,CustomerID,Region,CustomerName,State,City,Category,SubCategory,GrossSales,GrossProfit,Return_Sales_Value,ActualSales,NetProfit,TotalCost
+ORD1000,January,2022,CUST1023,East,Customer38,Illinois,Miami,Clothing,Chair,119.62,268.66,11.98,572.12,12.12,237.85
+ORD1001,May,2021,CUST1092,South,Customer4,Florida,Los Angeles,Toys,Mobile,819.29,260.76,99.57,392.72,102.02,129.55
+ORD1002,October,2024,CUST1051,South,Customer14,New York,Miami,Furniture,Action Figures,934.85,165.62,18.6,604.38,26.64,564.07
+ORD1003,March,2021,CUST1000,West,Customer24,Florida,Chicago,Toys,Pants,716.62,199.55,64.42,780.55,274.34,85.72
+ORD1004,March,2022,CUST1077,East,Customer14,California,Houston,Furniture,Dolls,425.19,37.33,75.26,405.37,14.13,690.39
+ORD1005,September,2023,CUST1015,East,Customer26,New York,Los Angeles,Electronics,Tablet,743.25,43.1,85.82,303.42,63.35,257.34
+ORD1006,February,2023,CUST1045,South,Customer33,Florida,Houston,Toys,Pants,423.87,232.74,67.88,652.82,59.89,682.84
+ORD1007,July,2022,CUST1050,East,Customer44,Illinois,Miami,Toys,Chair,323.5,249.95,32.33,780.11,93.42,437.83
+ORD1008,February,2022,CUST1055,East,Customer21,New York,Los Angeles,Food,Shirt,479.13,156.61,92.74,792.94,134.35,608.57
+ORD1009,August,2022,CUST1064,East,Customer39,Illinois,Chicago,Toys,Chair,924.72,112.89,70.47,726.33,78.19,283.88
+ORD1010,May,2024,CUST1040,North,Customer17,California,Miami,Food,Snacks,285.95,122.24,37.26,950.22,45.9,473.68
+ORD1011,March,2023,CUST1063,South,Customer10,Florida,Los Angeles,Clothing,Mobile,204.41,188.34,51.44,123.14,174.35,418.09
+ORD1012,February,2024,CUST1072,South,Customer26,Illinois,Miami,Electronics,Pants,123.34,278.73,27.88,103.44,11.66,512.36
+ORD1013,August,2021,CUST1050,West,Customer35,Texas,Los Angeles,Food,Snacks,523.68,84.38,26.87,764.49,188.32,378.98
+ORD1014,February,2023,CUST1046,East,Customer17,California,Miami,Electronics,Action Figures,275.25,276.51,23.97,983.9,80.5,414.53
+ORD1015,September,2022,CUST1053,West,Customer44,Texas,Miami,Clothing,Mobile,158.7,168.33,24.53,358.66,276.78,650.64
+ORD1016,June,2023,CUST1038,North,Customer28,California,Miami,Toys,Action Figures,504.25,216.32,74.1,914.44,237.36,280.51
+ORD1017,August,2021,CUST1060,East,Customer43,New York,Chicago,Clothing,Shirt,793.41,138.99,26.97,261.26,109.78,347.62
+ORD1018,April,2022,CUST1054,South,Customer48,Texas,Miami,Toys,Action Figures,389.98,169.74,57.85,694.49,48.4,369.01
+ORD1019,November,2021,CUST1075,West,Customer2,New York,Los Angeles,Food,Pants,102.13,194.43,68.4,192.6,139.57,316.63
+ORD1020,November,2022,CUST1057,South,Customer29,California,Houston,Furniture,Pants,947.69,278.98,45.94,387.37,29.54,184.42
+ORD1021,May,2023,CUST1029,West,Customer45,Illinois,Miami,Food,Pants,165.85,223.86,64.7,153.41,120.71,663.97
+ORD1022,October,2022,CUST1062,South,Customer11,New York,Houston,Electronics,Snacks,652.58,14.23,19.4,738.88,151.32,606.37
+ORD1023,April,2023,CUST1035,East,Customer33,California,Miami,Clothing,Pants,231.63,218.94,77.88,819.99,167.17,195.86
+ORD1024,August,2023,CUST1024,North,Customer18,Texas,Los Angeles,Clothing,Pants,381.79,120.55,52.51,299.8,86.98,219.85
+ORD1025,December,2021,CUST1050,South,Customer16,Illinois,Los Angeles,Electronics,Shirt,192.54,228.23,11.45,453.18,91.35,163.36
+ORD1026,October,2023,CUST1061,South,Customer28,California,Houston,Furniture,Chair,218.49,198.68,17.3,215.99,156.05,336.24
+ORD1027,October,2021,CUST1062,South,Customer30,Texas,Los Angeles,Furniture,Dolls,728.34,162.51,99.85,203.72,115.06,168.31
+ORD1028,May,2022,CUST1024,North,Customer36,California,Houston,Clothing,Mobile,203.55,53.55,73.37,378.11,270.7,281.91
+ORD1029,March,2024,CUST1084,South,Customer23,California,Miami,Furniture,Action Figures,408.92,75.64,96.06,453.28,245.68,330.18
+ORD1030,November,2022,CUST1067,North,Customer48,Illinois,Chicago,Toys,Dolls,392.84,163.4,26.36,920.11,199.15,496.8
+ORD1031,September,2023,CUST1064,West,Customer23,Illinois,Houston,Furniture,Dolls,613.39,123.33,26.66,609.53,292.14,451.12
+ORD1032,May,2022,CUST1081,West,Customer5,Illinois,Miami,Food,Mobile,782.96,175.55,91.53,407.78,48.83,346.58
+ORD1033,September,2023,CUST1035,East,Customer19,New York,Los Angeles,Clothing,Shirt,423.88,35.26,64.04,538.41,296.11,325.38
+ORD1034,February,2021,CUST1027,East,Customer21,California,Houston,Furniture,Dolls,813.52,256.56,60.27,314.73,13.68,484.27
+ORD1035,December,2023,CUST1075,South,Customer22,Illinois,Chicago,Food,Snacks,536.66,273.9,73.82,564.62,81.51,598.8
+ORD1036,January,2022,CUST1046,East,Customer43,Texas,Chicago,Toys,Dolls,583.89,66.65,27.2,213.35,181.66,280.99
+ORD1037,October,2024,CUST1083,North,Customer5,California,Miami,Electronics,Dolls,809.92,159.16,17.93,150.61,157.33,283.71
+ORD1038,October,2024,CUST1086,South,Customer6,California,Miami,Food,Shirt,503.34,285.97,15.02,975.68,194.87,159.61
+ORD1039,December,2021,CUST1066,West,Customer17,New York,Miami,Clothing,Dolls,253.52,168.93,31.98,229.77,107.25,378.57
+ORD1040,January,2023,CUST1001,East,Customer48,Illinois,Chicago,Electronics,Pants,174.82,150.29,51.05,450.09,202.97,189.2
+ORD1041,September,2021,CUST1018,East,Customer12,Illinois,Houston,Clothing,Chair,219.89,142.82,11.82,451.35,117.8,282.38
+ORD1042,February,2023,CUST1062,North,Customer8,California,Houston,Food,Pants,862.1,162.36,70.99,718.6,228.09,598.18
+ORD1043,October,2023,CUST1085,North,Customer9,Florida,Chicago,Clothing,Snacks,644.27,36.6,13.67,715.82,133.41,118.83
+ORD1044,February,2021,CUST1048,North,Customer4,New York,Houston,Toys,Mobile,883.41,116.56,21.2,295.8,110.26,471.22
+ORD1045,January,2022,CUST1080,North,Customer6,Texas,Miami,Electronics,Dolls,727.89,201.56,64.35,222.43,138.34,543.95
+ORD1046,March,2024,CUST1081,South,Customer16,New York,Los Angeles,Clothing,Shirt,100.35,141.3,17.58,254.94,128.88,419.99
+ORD1047,October,2021,CUST1088,North,Customer26,New York,Miami,Clothing,Chair,510.94,266.22,62.01,748.14,85.97,434.23
+ORD1048,October,2022,CUST1075,West,Customer16,New York,Los Angeles,Food,Dolls,869.43,127.24,28.48,181.99,71.77,345.24
+ORD1049,November,2022,CUST1046,South,Customer3,Texas,Miami,Food,Snacks,823.57,253.25,61.01,828.82,292.17,174.13
+ORD1050,October,2022,CUST1009,North,Customer31,Illinois,Miami,Food,Mobile,185.34,195.49,18.89,312.26,154.14,133.47
+ORD1051,April,2024,CUST1052,South,Customer33,California,Houston,Toys,Snacks,337.89,41.18,85.25,337.01,256.01,568.61
+ORD1052,April,2023,CUST1090,North,Customer18,Illinois,Chicago,Clothing,Pants,313.52,182.92,91.12,152.09,48.45,484.36
+ORD1053,August,2021,CUST1013,East,Customer2,Florida,Los Angeles,Electronics,Mobile,407.58,120.56,92.22,521.99,84.16,250.37

@@ -1,4 +1,4 @@
-product_id,product_name,category
+ProductID,ProductName,Category
 101, Laptop, Electronics
 102, Smartphone, Electronics
 103, Desk, Furniture

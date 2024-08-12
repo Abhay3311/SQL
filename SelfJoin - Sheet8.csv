@@ -1,0 +1,9 @@
+OrderID,CustomerID,Product,OrderDate
+101,User1,Laptop,2024-08-01
+102,User2,Smartphone,2024-08-02
+103,User1,Tablet,2024-08-03
+104,User4,Headphones,2024-08-04
+105,User4,Monitor,2024-08-05
+106,User5,Earphone,2024-08-02
+107,User6,Charger,2024-08-03
+108,User7,Mic,2024-08-04

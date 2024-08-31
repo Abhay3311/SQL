@@ -1,0 +1,10 @@
+EmployeeID,FirstName,LastName,Department,Salary,HireDate
+1,John,Doe,IT,60000,2021-03-15
+2,Jane,Smith,HR,50000,2020-07-22
+3,Bob,Brown,IT,70000,2019-05-10
+4,Alice,Davis,Sales,45000,2022-01-11
+5,Abhay,Das,IT,35000,2022-01-11
+6,Chiku,Sharma,HR,50000,2021-03-15
+7,Rabina,Roy,IT,60000,2020-07-22
+8,Danish,Das,Sales,72000,2019-05-10
+9,Husan,Das,IT,53000,2022-01-11

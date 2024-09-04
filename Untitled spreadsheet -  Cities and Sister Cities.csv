@@ -1,0 +1,5 @@
+city_id,city_name,population,sister_city_id
+1,New York,8000000,2
+2,London,9000000,1
+3,Tokyo,10000000,NULL
+4,Paris,2100000,2

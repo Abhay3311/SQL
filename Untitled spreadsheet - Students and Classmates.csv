@@ -1,0 +1,5 @@
+student_id,student_name,age,mentor_id
+1,John,16,3
+2,Mary,17,3
+3,Sarah,18,NULL
+4,Mark,16,3

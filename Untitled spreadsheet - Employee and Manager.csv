@@ -1,0 +1,5 @@
+employee_id,name,salary,manager_id
+1,Ram,20000,3
+2,Shayam,60000,4
+3,Faruk,40000,NULL
+4,Doli,50000,NULL

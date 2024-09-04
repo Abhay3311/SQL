@@ -1,0 +1,5 @@
+product_id,product_name,price,substitute_id
+1,Laptop,800,2
+2,Tablet,500,NULL
+3,Smartphone,300,1
+4,Desktop,700,NULL
